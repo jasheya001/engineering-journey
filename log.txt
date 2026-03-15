@@ -1,1 +1,11 @@
-Day 1 - Environment Ready 
+
+--- TERMINAL PRACTICE DAY 1 ---
+
+cd — change directory
+dir — list files in current folder
+echo — print text
+> — write text to a file
+>> — append text to file
+type — read file contents
+ren — rename a file
+del — delete a file

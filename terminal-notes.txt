@@ -1,0 +1,3 @@
+I am learning terminals 
+It allows me to control my computer. 
+Developers use terminals daily. 
