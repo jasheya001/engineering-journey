@@ -9,3 +9,19 @@ echo — print text
 type — read file contents
 ren — rename a file
 del — delete a file
+pwd - work like a dir, check which directory am I in a Linux/ GitBash/ Unix PowerShell
+ls- shows the list of files in the folder in Linux/ GitBash/ Unix PowerShell
+tree - shows how folder are arraged. if you want to see how files also arranged in folder
+       then use tree /f.
+date - show current date
+time - show current time
+hostname- show computer name
+whoami -show the user name
+cls - clear screen
+ver - show windows version
+ipconfig- show network information and ip address
+ping 8.8.8.8 - test internet connection
+mkdir -create folder
+rmdir- remove foler.but make sure you are outside of this folder while deleting.
+more log.txt-read content file page by page
+
